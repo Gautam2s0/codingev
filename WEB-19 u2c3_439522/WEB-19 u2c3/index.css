@@ -1,0 +1,49 @@
+/* Fill CSS here */
+
+body>h1{
+    color: rgb(25, 112, 188);
+    margin-top: 60px;
+    margin-left: 30%;
+    font-size: 35px;
+}
+form>input:last-child{
+    background-color: rgb(25, 112, 188);
+    padding: 10px 65px;
+    color: white;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    border: none;
+}
+table>thead{
+
+    background-color: rgb(25, 112, 188);
+    color: white;
+ 
+}
+table>tbody>tr>td:last-child{
+    background-color: red;
+    color: white;
+}
+body>div{
+    display: flex;
+    gap: 16%;
+    height: 30px;
+    margin-left: 14%;
+}
+body>div>table>tbody>tr{
+    text-align: center;
+}
+body>div>form>label{
+    font-size: 18px;
+    
+    
+}
+body>div>form>input{
+    margin-bottom: 10px;
+
+}
+#department{
+    margin-bottom: 10px;
+}
+
